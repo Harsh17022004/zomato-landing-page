@@ -1,0 +1,12 @@
+.signIn{
+    position: absolute;
+    float: right;
+    display: inline-flex;
+    right: 0px;
+    font-size: 1.8rem;
+    font-weight: 400;
+}
+
+.heading{
+    font-weight: 400;
+}
